@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectCity</name>
+   <tag></tag>
+   <elementGuidId>a0b8056c-5af8-4506-869f-622bff23b69d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id='react-select-4-input'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id='react-select-4-input'])</value>
+      <webElementGuid>b0015b09-68af-426b-81c1-b865eaa79578</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputSubjects</name>
+   <tag></tag>
+   <elementGuidId>cadaa004-e8ad-44bf-8a04-9fd8a7696064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id='subjectsInput'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id='subjectsInput'])[1]</value>
+      <webElementGuid>af7baf5c-1890-41de-b24d-58fe81e040b2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

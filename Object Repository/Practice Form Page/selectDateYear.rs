@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectDateYear</name>
+   <tag></tag>
+   <elementGuidId>edda324a-2419-441a-abe2-efcdc24ab812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//select[@class='react-datepicker__year-select'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//select[@class='react-datepicker__year-select'])[1]</value>
+      <webElementGuid>12a9d882-0805-43f7-908c-a72907ea9c98</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

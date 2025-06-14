@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectState</name>
+   <tag></tag>
+   <elementGuidId>6bdbe899-7dcd-4079-8930-0d1585ae1f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id='react-select-3-input'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id='react-select-3-input'])</value>
+      <webElementGuid>d8192996-d67c-41d7-a1e8-636982a7b712</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

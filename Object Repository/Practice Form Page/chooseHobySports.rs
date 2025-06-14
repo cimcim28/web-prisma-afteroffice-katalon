@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chooseHobySports</name>
+   <tag></tag>
+   <elementGuidId>b0e1ace3-dbf4-4ebd-a1ba-d338c8c2a1d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[normalize-space()='Sports'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[normalize-space()='Sports'])[1]</value>
+      <webElementGuid>fdfa1cc0-6e26-4b94-b63c-711aac7ea278</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
